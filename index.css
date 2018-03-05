@@ -1,0 +1,10 @@
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.thumbnails {
+  display: block;
+  margin: 10px;
+}
